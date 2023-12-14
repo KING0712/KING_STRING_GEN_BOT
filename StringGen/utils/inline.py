@@ -7,7 +7,7 @@ keyboard = InlineKeyboardMarkup(
     [
         [InlineKeyboardButton(text="🖤 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 🖤", callback_data="gensession")],
         [
-            InlineKeyboardButton(text="🖤 𝐎𝐖𝐍𝐄𝐑 🖤", url="https://t.me/l_MR_ll_KING_l"
+            [InlineKeyboardButton(text="🖤 𝐎𝐖𝐍𝐄𝐑 🖤", url="https://t.me/l_MR_ll_KING_l"],
             InlineKeyboardButton(
                 text="", url=""
             ),
