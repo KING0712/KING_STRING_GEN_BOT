@@ -1,31 +1,13 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
+    ──「 𝐊𝐈𝐍𝐆 𝐒𝐓𝐑𝐈𝐍𝐆 𝐆𝐄𝐍 𝐁𝐎𝐓 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/07e5b7d11e3a834ad3826.jpg">
+  <img src="https://telegra.ph/file/64e4440d641998b4d9749.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/StringFatherBot)**_
-━━━━━━━━━━━━━━━━━━━━
-
-<p align="center">
-<a href="https://github.com/AnonymousX1025/StringGenBot/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
-<a href="https://github.com/AnonymousX1025/StringGenBot/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
-<a href="https://github.com/AnonymousX1025/StringGenBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python"/></a>
-<a href="https://github.com/AnonymousX1025/StringGenBot/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
-</p>
-
-━━━━━━━━━━━━━━━━━━━━
-
-<p align="center">
-  <img src="https://te.legra.ph/file/7871ceddf5ab4a6787182.jpg">
-</p>
-
-<p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
 
