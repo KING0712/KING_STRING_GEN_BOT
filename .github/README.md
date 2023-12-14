@@ -17,7 +17,6 @@
 
 
     ─「 𝐎𝐖𝐍𝐄𝐑 」─
-</h3>
 
 <p align="center">
 <a href="https://telegram.me/l_MR_ll_KING_l"><img src="https://img.shields.io/badge/-TELEGRAM%20ID-black.svg?style=for-the-badge&logo=Telegram"></a>
